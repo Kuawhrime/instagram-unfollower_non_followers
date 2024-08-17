@@ -1,2 +1,2 @@
 # instagram-unfollower_non_followers
-Ce code va unfollow tout les non follower de votre code
+This code automates the unsubscribing of unwanted people from your instagram account thanks to the api
